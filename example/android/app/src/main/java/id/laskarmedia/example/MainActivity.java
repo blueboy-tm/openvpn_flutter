@@ -1,9 +1,8 @@
-package id.laskarmedia.openvpn_flutter_example;
+package id.laskarmedia.example;
 
-import android.content.Intent;
-
-import id.laskarmedia.openvpn_flutter.OpenVPNFlutterPlugin;
 import io.flutter.embedding.android.FlutterActivity;
+import id.laskarmedia.openvpn_flutter.OpenVPNFlutterPlugin;
+import android.content.Intent;
 
 public class MainActivity extends FlutterActivity {
     @Override

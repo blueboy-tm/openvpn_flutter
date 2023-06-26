@@ -46,5 +46,5 @@ android {
 }
 
 dependencies {
-    implementation 'com.github.ainusdev:openvpn_library:19190c38ff026f503d4b86ff1fe58c5cd3a207db'
+    implementation 'com.github.blueboy-tm:openvpn_library:19190c38ff026f503d4b86ff1fe58c5cd3a207db'
 }
