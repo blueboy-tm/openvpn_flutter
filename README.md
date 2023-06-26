@@ -20,6 +20,13 @@ So it look like this
     }
 ```
 
+Add to build.gradle file
+```
+flatDir { 
+    dirs 'vpnLib'
+}
+```
+
 ## iOS Setup
 
 ### <b>1. Add Capabillity</b>
